@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker (Python)
+# 🔐 Password Strength Checker (Python)1
 
 A beginner-friendly Python project that checks the strength of a password based on common security rules.
 
